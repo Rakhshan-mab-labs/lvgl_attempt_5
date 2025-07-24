@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lv_example_get_started.h": "c",
+        "lv_iter.h": "c"
+    }
+}
