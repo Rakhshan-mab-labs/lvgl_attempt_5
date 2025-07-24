@@ -1,5 +1,5 @@
 #include <lvgl.h>
-// #if LV_BUILD_EXAMPLES && LV_USE_LABEL
+#if LV_BUILD_EXAMPLES && LV_USE_LABEL
 
 /**
  * Basic example to create a "Hello world" label
@@ -19,4 +19,4 @@ void lv_example_get_started_1(void)
     lv_refr_now(NULL);
 }
 
-// #endif
+#endif
